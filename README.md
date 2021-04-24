@@ -18,7 +18,8 @@ This Project is developed in C Language.
 
 **Step 5:** Read all the Instructions displays on Output Screen and follow the given steps.
 
-Output:
+
+**Output:**
 
 ![image](https://user-images.githubusercontent.com/51476119/115953916-de6f6e00-a50b-11eb-9598-d2843576f440.png)
 
