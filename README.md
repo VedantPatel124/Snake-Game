@@ -1,25 +1,24 @@
-# Snake-Game
-This Project is developed in C Language.
+# Snake Game
 
-**main.c** is the file which contains C program of Snake Game. 
+This project is developed in the C programming language.
 
-**Records.txt** is created automatically once you run the program. This file store all the records of playres with date, time and score of game.
+**main.c** contains the C program for the Snake Game.
 
+When you run the program, **Records.txt** is created automatically. This file stores all the records of players along with the date, time, and score of the game.
 
-**To Run this project please follow the mentioned steps.**
+## How to Run the Project
 
-**Step 1:** Open the main.c file.
+Follow these steps to run the project:
 
-**Step 2:** Compile the Code.
+1. Open the `main.c` file.
+2. Compile the code.
+3. Run the code.
+4. The output screen will appear.
+5. Read all the instructions displayed on the output screen and follow the given steps.
 
-**Step 3:** Run the Code.
+Feel free to explore and enjoy the game!
 
-**Step 4:** Now the Output Screen appears.
-
-**Step 5:** Read all the Instructions displays on Output Screen and follow the given steps.
-
-
-**Output:**
+## Output Screenshots
 
 ![image](https://user-images.githubusercontent.com/51476119/115953916-de6f6e00-a50b-11eb-9598-d2843576f440.png)
 
